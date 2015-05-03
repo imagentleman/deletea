@@ -1,2 +1,2 @@
 # deletea
-A package to delete folders and files in io.js using ES 2015 feat (no dependencies; uses fs)
+An io.js package to delete folders and files using ES 2015 features (no dependencies; uses fs)
