@@ -1,0 +1,19 @@
+{
+  "name": "deletea",
+  "version": "1.0.0",
+  "description": "An io.js package to delete folders and files using ES 2015 features (no dependencies; uses fs)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagentleman/deletea.git"
+  },
+  "keywords": [
+    "delete"
+  ],
+  "author": "imagentleman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imagentleman/deletea/issues"
+  },
+  "homepage": "https://github.com/imagentleman/deletea#readme"
+}
