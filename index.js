@@ -3,6 +3,10 @@
 const fs = require('fs');
 
 function deletea(path) {
+  if (!fs.existsSync(path)) {
+    return;
+  }
+
   let stats = fs.lstatSync(path);
 
   if (stats.isDirectory()) {
